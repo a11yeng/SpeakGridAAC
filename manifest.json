@@ -1,0 +1,10 @@
+{
+  "name": "FG AAC",
+  "short_name": "FG AAC",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f7fb",
+  "theme_color": "#ffffff",
+  "description": "A local-only AAC-style web app with the FG AAC default sample board.",
+  "icons": []
+}
